@@ -1,0 +1,18 @@
+{
+  "name": "findfilm",
+  "version": "1.0.0",
+  "description": "findfilmapp",
+  "main": "apps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon apps.js"
+  },
+  "author": "mike p",
+  "license": "SEE LICENSE IN README.md",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
